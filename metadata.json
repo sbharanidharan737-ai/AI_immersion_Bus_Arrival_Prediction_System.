@@ -1,0 +1,6 @@
+{
+  "name": "Bus Arrival Time Prediction System",
+  "description": "Full Stack Web Application predicting bus arrival times using Random Forest Regression, Node.js, Express, React, and MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
